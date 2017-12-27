@@ -1,0 +1,58 @@
+331.0 Run/Walk: 20.0m/4.0m Pace: 7.5/9.5 Speed: 8.0/6.3 Dist: 2.7/0.4 Splits: 14 Avg.Pace: 7.77
+Splits: 14 Run: 20.0m/@7.5/8.0kph Walk: 4.0m/@9.5/6.3kph Avg.Pace: 7.8
+
+
+323.0 Run/Walk: 30.0m/3.0m Pace: 7.5/9.5 Speed: 8.0/6.3 Splits: 10
+324.0 Run/Walk: 25.0m/3.0m Pace: 7.5/9.5 Speed: 8.0/6.3 Splits: 12
+325.0 Run/Walk: 20.0m/3.0m Pace: 7.5/9.5 Speed: 8.0/6.3 Splits: 14
+325.0 Run/Walk: 30.0m/4.0m Pace: 7.5/9.5 Speed: 8.0/6.3 Splits: 10
+326.0 Run/Walk: 25.0m/4.0m Pace: 7.5/9.5 Speed: 8.0/6.3 Splits: 11
+
+326.0 Run/Walk: 30.0m/5.0m Pace: 7.5/9.5 Speed: 8.0/6.3 Splits: 9 <+++++
+
+328.0 Run/Walk: 15.0m/3.0m Pace: 7.5/9.5 Speed: 8.0/6.3 Splits: 18
+328.0 Run/Walk: 20.0m/4.0m Pace: 7.5/9.5 Speed: 8.0/6.3 Splits: 14
+328.0 Run/Walk: 25.0m/5.0m Pace: 7.5/9.5 Speed: 8.0/6.3 Splits: 11
+
+
+Walk: 6.0kmh 5km 8.6/7.0kmh 31.0km 8.0/7.5kmh 2.2km 8.6/7.0kmh Time: 350.0 minutes
+Walk: 6.5kmh 5km 8.6/7.0kmh 30.7km 8.0/7.5kmh 2.2km 8.6/7.0kmh Time: 348.0 minutes
+
+Walk: 6.0kmh 5km 8.0/7.5kmh 31.0km 7.5/8.0kmh 2.2km 8.6/7.0kmh Time: 331.0 minutes
+
+Run/Walk: 10/3/7.5 Time: 351 mins
+
+
+308.0 Run/Walk: Time: 20.0m/2.0m Pace: 7.0/10.0 Time: 308.0m Splits: 14
+308.0 Run/Walk: Time: 25.0m/3.0m Pace: 7.0/10.0 Time: 308.0m Splits: 11
+308.0 Run/Walk: Time: 40m/4.0m Pace: 7.0/10.0 Time: 308.0m Splits: 7
+
+308.0 Run/Walk: Time: 20.0m/2.0m Pace: 7.0/11.0 Time: 308.0m Splits: 14
+308.0 Run/Walk: Time: 25.0m/3.0m Pace: 7.0/11.0 Time: 308.0m Splits: 11
+308.0 Run/Walk: Time: 40m/4.0m Pace: 7.0/11.0 Time: 308.0m Splits: 7
+
+
+
+312.0 Run/Walk: Time: 10.0m/2.0m Pace: 7.0/10.0 Time: 312.0m Splits: 26
+312.0 Run/Walk: Time: 20.0m/4.0m Pace: 7.0/10.0 Time: 312.0m Splits: 13
+315.0 Run/Walk: Time: 30.0m/5.0m Pace: 7.0/10.0 Time: 315.0m Splits: 9
+315.0 Run/Walk: Time: 40m/5.0m Pace: 7.0/10.0 Time: 315.0m Splits: 7
+315.0 Run/Walk: Time: 40m/5.0m Pace: 7.2/10.0 Time: 315.0m Splits: 7
+319.0 Run/Walk: Time: 25.0m/4.0m Pace: 7.0/10.0 Time: 319.0m Splits: 11
+319.0 Run/Walk: Time: 25.0m/4.0m Pace: 7.2/10.0 Time: 319.0m Splits: 11
+320.0 Run/Walk: Time: 15.0m/5.0m Pace: 7.0/10.0 Time: 320.0m Splits: 16
+320.0 Run/Walk: Time: 30.0m/2.0m Pace: 7.0/10.0 Time: 320.0m Splits: 10
+320.0 Run/Walk: Time: 30.0m/2.0m Pace: 7.2/10.0 Time: 320.0m Splits: 10
+[Finished in 3.1s]
+
+308.0 Run/Walk: Time: 20.0m/2.0m Pace: 7.0/11.0 Time: 308.0m Splits: 14
+308.0 Run/Walk: Time: 25.0m/3.0m Pace: 7.0/11.0 Time: 308.0m Splits: 11
+308.0 Run/Walk: Time: 40m/4.0m Pace: 7.0/11.0 Time: 308.0m Splits: 7
+
+
+315.0 Run/Walk: Time: 30.0m/5.0m Pace: 7.0/11.0 Time: 315.0m Splits: 9
+315.0 Run/Walk: Time: 40m/5.0m Pace: 7.0/11.0 Time: 315.0m Splits: 7
+319.0 Run/Walk: Time: 25.0m/4.0m Pace: 7.0/11.0 Time: 319.0m Splits: 11
+320.0 Run/Walk: Time: 30.0m/2.0m Pace: 7.0/11.0 Time: 320.0m Splits: 10
+320.0 Run/Walk: Time: 30.0m/2.0m Pace: 7.2/11.0 Time: 320.0m Splits: 10
+[Finished in 2.1s]
